@@ -1,5 +1,5 @@
 # RoDE
-RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels (IEEE Transactions on Information Forensics and Security, PyTorch Code)
+Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification (IEEE Transactions on Information Forensics and Security, PyTorch Code)
 
 Authors: Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng and Peng Hu
 
